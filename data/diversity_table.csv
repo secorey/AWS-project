@@ -1,0 +1,502 @@
+Overall Rank,City,Total Score,Socioeconomic Diversity,Cultural Diversity,Economic Diversity,Household Diversity,Religious Diversity,Reddit Handle
+1,"Gaithersburg, MD",73.09,14,3,243,391,97,gaithersburg
+2,"Germantown, MD",72.94,43,1,250,426,97,germantown
+3,"Silver Spring, MD",72.91,1,4,302,231,97,silverspring
+4,"Houston, TX",72.28,59,28,140,123,51,houston
+5,"Arlington, TX",72.16,95,34,128,257,37,arlington
+6,"New York, NY",72.1,36,5,313,155,159,nyc
+7,"Jersey City, NJ",72.02,29,2,436,200,214,jerseycity
+8,"Charlotte, NC",71.79,11,74,356,233,15,charlotte
+9,"Dallas, TX",71.72,29,49,200,199,64,dallas
+10,"Los Angeles, CA",71.6,13,23,82,70,217,losangeles
+11,"Orlando, FL",71.46,116,13,339,68,143,orlando
+12,"Tampa, FL",71.42,75,57,335,71,44,tampa
+13,"Rockville, MD",71.41,145,8,422,381,97,rockville
+14,"Clifton, NJ",71.36,136,27,213,256,85,clifton
+15,"Long Beach, CA",71.32,26,31,78,52,217,longbeach
+16,"Danbury, CT",71.3,28,39,156,218,145,danbury
+17,"Chicago, IL",71.25,46,44,336,247,81,chicago
+18,"Yonkers, NY",71.0,48,29,260,167,168,yonkers
+19,"Oakland, CA",70.98,17,10,215,113,313,oakland
+20,"Aurora, IL",70.96,6,41,315,366,141,auroraillinois
+21,"Fort Worth, TX",70.93,80,65,130,253,104,fortworth
+22,"Stamford, CT",70.83,41,25,411,264,145,stamford
+23,"Bridgeport, CT",70.78,317,16,253,54,145,bridgeport
+24,"Nashville, TN",70.73,23,143,268,176,12,nashville
+25,"Sandy Springs, GA",70.69,55,119,482,357,3,sandysprings
+26,"Springdale, AR",70.58,139,51,250,210,110,springdalear
+26,"Bear, DE",70.58,57,53,176,4,230,
+28,"Sacramento, CA",70.56,66,21,8,28,366,sacramento
+29,"Kent, WA",70.45,178,6,84,214,355,kentwa
+30,"Anaheim, CA",70.4,58,50,114,189,247,anaheim
+31,"Phoenix, AZ",70.38,81,61,159,34,206,phoenix
+32,"Richmond, VA",70.37,85,209,242,358,2,rva
+33,"Roswell, GA",70.36,137,121,441,459,3,roswell
+34,"New Rochelle, NY",70.33,38,45,362,370,168,newrochelle
+35,"Brooklyn Park, MN",70.33,129,56,427,323,72,
+36,"Kansas City, KS",70.31,364,55,68,136,105,kansascity
+37,"Norwalk, CT",70.22,40,62,307,369,145,norwalk
+38,"Oklahoma City, OK",70.2,141,126,46,193,48,okc
+39,"Federal Way, WA",70.16,185,11,70,209,355,federalway
+40,"Lowell, MA",69.98,147,36,325,10,270,lowell
+41,"Elgin, IL",69.96,91,78,286,378,95,elgin
+42,"San Diego, CA",69.9,18,22,283,160,362,sandiego
+43,"Renton, WA",69.9,122,17,237,48,355,renton
+44,"San Jose, CA",69.88,221,9,400,377,279,sanjose
+45,"Glendale, AZ",69.84,244,66,111,31,206,glendale
+46,"Washington, DC",69.84,74,97,460,447,16,washingtondc
+47,"Newark, NJ",69.83,470,40,85,343,83,newark
+48,"Boston, MA",69.82,37,20,487,361,203,boston
+49,"Winston-Salem, NC",69.82,222,134,375,258,14,winstonsalem
+50,"Spring Valley, NV",69.8,213,7,461,17,323,springvalley
+51,"Fort Lauderdale, FL",69.79,60,58,239,57,275,fortlauderdale
+52,"Kenner, LA",69.77,191,88,100,310,107,kenner
+53,"Jacksonville, FL",69.73,243,136,193,108,30,jacksonville
+54,"New Britain, CT",69.73,373,30,277,165,174,newbritain
+55,"Johns Creek, GA",69.72,342,43,491,500,3,johnscreek
+56,"Waukegan, IL",69.67,230,60,206,130,201,waukegan
+57,"High Point, NC",69.66,156,117,219,178,59,highpoint
+58,"Raleigh, NC",69.61,9,129,361,183,89,raleigh
+59,"Santa Fe, NM",69.6,50,103,67,179,187,santafe
+60,"Durham, NC",69.52,2,95,472,284,88,durham
+61,"North Las Vegas, NV",69.46,289,18,186,103,323,northlasvegas
+62,"Enterprise, NV",69.45,195,14,416,147,323,enterprise
+63,"Austin, TX",69.42,4,72,284,192,286,austin
+64,"Albuquerque, NM",69.4,172,108,143,95,123,albuquerque
+65,"Tempe, AZ",69.29,45,82,343,235,206,tempe
+66,"Las Vegas, NV",69.27,212,38,214,60,323,lasvegas
+67,"Fresno, CA",69.22,217,70,33,42,308,fresno
+68,"Plano, TX",69.21,51,26,462,458,250,plano
+69,"Lynn, MA",69.21,211,42,256,20,335,lynnma
+70,"Paradise, NV",69.19,354,12,425,7,323,paradise
+71,"Atlanta, GA",69.18,42,183,444,439,8,atlanta
+72,"Providence, RI",69.14,155,19,414,242,341,providence
+73,"St. Louis, MO",69.12,239,243,433,380,1,stlouis
+74,"St. Paul, MN",69.08,25,73,340,188,290,stpaul
+75,"Clovis, NM",69.07,340,113,10,161,133,clovis
+76,"Minneapolis, MN",69.06,7,144,445,302,72,minneapolis
+77,"Alexandria, VA",69.0,89,46,363,373,311,alexandriava
+78,"Pawtucket, RI",68.99,264,32,309,19,341,pawtucket
+79,"Tulsa, OK",68.95,225,131,180,119,113,tulsa
+80,"Greensboro, NC",68.92,150,147,255,197,90,greensboro
+81,"Fayetteville, NC",68.88,429,112,45,234,79,fayettenam
+82,"Lancaster, PA",68.86,252,69,405,146,216,lancaster
+83,"Elizabeth, NJ",68.83,308,114,171,44,125,elizabethnj
+84,"Bakersfield, CA",68.78,160,86,25,305,294,bakersfield
+85,"Honolulu, HI",68.68,73,71,54,174,383,honolulu
+86,"San Antonio, TX",68.66,214,153,124,66,126,sanantonio
+87,"Little Rock, AR",68.62,110,228,258,255,26,littlerock
+88,"Fort Smith, AR",68.59,325,150,224,38,71,fortsmithar
+89,"Chandler, AZ",68.59,87,89,399,374,206,chandler
+90,"Columbia, MD",68.5,166,62,442,354,267,columbiamd
+91,"Waterbury, CT",68.48,400,51,208,51,295,waterburyct
+92,"Milwaukee, WI",68.47,391,104,357,364,52,milwaukee
+93,"Tacoma, WA",68.47,161,138,69,43,253,tacoma
+94,"Norfolk, VA",68.41,223,169,60,122,131,norfolk
+95,"Hammond, IN",68.41,466,84,245,64,111,
+96,"Paterson, NJ",68.4,445,100,333,78,85,paterson
+97,"Denver, CO",68.36,3,93,380,186,314,denver
+98,"Rogers, AR",68.29,56,116,322,435,193,rogers
+99,"Mount Vernon, NY",68.28,109,135,412,215,168,mountvernon
+100,"Rockford, IL",68.26,427,139,384,111,42,rockford
+101,"Lawton, OK",68.25,443,137,51,33,132,lawton
+102,"Everett, WA",68.24,241,96,154,5,303,everett
+103,"Yakima, WA",68.21,258,110,120,125,256,yakima
+104,"Indianapolis, IN",68.21,167,182,260,215,78,indianapolis
+105,"Brookside, DE",68.2,302,109,138,142,230,brookside
+106,"Quincy, MA",68.19,15,85,450,204,304,quincyma
+107,"Aurora, CO",68.19,106,33,94,120,445,auroraco
+108,"Hartford, CT",68.16,475,48,311,408,174,hartford
+109,"Sunrise Manor, NV",68.1,440,47,288,7,323,
+110,"Kahului, HI",68.08,259,91,373,232,228,
+111,"Hobbs, NM",68.02,331,115,27,277,257,hobbs
+112,"Brockton, MA",68.01,232,24,431,30,413,brockton
+113,"Worcester, MA",67.98,190,64,423,101,367,worcester
+114,"Hilo, HI",67.98,250,118,8,117,316,hilo
+115,"Frederick, MD",67.96,32,90,151,125,398,frederickmd
+116,"North Charleston, SC",67.96,300,142,40,226,224,north_charleston
+117,"Columbus, GA",67.95,349,212,77,163,46,columbusga
+118,"New Haven, CT",67.94,234,37,485,407,295,newhaven
+119,"Philadelphia, PA",67.91,233,87,432,275,251,philadelphia
+120,"Trenton, NJ",67.87,477,80,31,249,246,trenton
+121,"Montgomery, AL",67.86,256,326,42,205,9,montgomery
+122,"Columbus, OH",67.86,133,171,263,127,173,columbus
+123,"Huron, SD",67.83,251,223,360,425,18,huron
+124,"Corpus Christi, TX",67.79,278,200,43,168,118,corpuschristi
+125,"Huntsville, AL",67.77,84,240,278,283,62,huntsville
+126,"Mesa, AZ",67.75,215,154,165,230,206,mesa
+127,"Rio Rancho, NM",67.73,238,167,65,429,149,riorancho
+128,"Tucson, AZ",67.7,313,79,126,18,379,tucson
+129,"West Valley City, UT",67.66,361,76,93,384,336,westvalleycity
+130,"Harrisburg, PA",67.63,433,105,86,341,221,harrisburg
+131,"Columbia, SC",67.62,201,225,182,417,54,columbiasc
+132,"Hampton, VA",67.61,330,218,30,152,103,hampton
+133,"Bloomington, MN",67.6,64,231,393,352,72,bloomingtonmn
+134,"Omaha, NE",67.55,83,229,306,250,109,omaha
+135,"San Francisco, CA",67.53,260,15,466,207,427,sanfrancisco
+136,"Allentown, PA",67.51,415,67,379,21,349,allentown
+137,"Roanoke, VA",67.49,383,259,284,50,17,roanoke
+138,"Cary, NC",67.48,171,94,493,487,70,cary
+139,"Springfield, MA",67.46,446,59,338,269,309,springfield
+140,"Passaic, NJ",67.42,293,201,295,181,85,passaiccounty
+141,"Miami, FL",67.39,209,213,90,23,195,miami
+142,"Roswell, NM",67.26,413,155,59,79,229,roswellnm
+143,"Baton Rouge, LA",67.25,301,294,144,278,21,batonrouge
+144,"Albany, NY",67.25,112,148,323,385,269,albany
+145,"Henderson, NV",67.24,180,132,132,349,323,hendersonnv
+146,"Tallahassee, FL",67.22,189,198,164,379,162,tallahassee
+147,"North Little Rock, AR",67.22,394,284,81,77,26,
+148,"Newport News, VA",67.22,311,166,83,190,252,newportnews
+149,"Reno, NV",67.21,108,123,148,9,409,reno
+150,"Midwest City, OK",67.19,420,278,20,104,33,midwestcity
+151,"Kansas City, MO",67.19,153,192,228,115,227,kansascity
+152,"Memphis, TN",67.17,406,301,169,327,6,memphis
+153,"Sparks, NV",67.16,196,98,73,162,409,sparksnv
+154,"Salt Lake City, UT",67.16,12,162,279,228,336,saltlakecity
+155,"Enid, OK",67.11,378,263,16,356,47,enid
+156,"Sioux City, IA",67.11,314,205,272,91,117,siouxcity
+157,"St. Petersburg, FL",67.09,143,207,340,157,167,stpetersburg
+158,"Buffalo, NY",67.07,407,151,312,306,152,buffalo
+159,"Cincinnati, OH",67.06,257,257,392,413,24,cincinnati
+160,"Bethlehem, PA",67.03,194,127,433,105,306,bethlehem
+161,"Wichita, KS",67.03,218,196,212,203,204,wichita
+162,"Anchorage, AK",67.01,177,122,38,271,404,anchorage
+163,"Metairie, LA",66.97,135,262,155,320,107,metairie
+164,"Joliet, IL",66.95,187,120,157,309,376,joliet
+165,"Woonsocket, RI",66.94,360,99,386,3,341,woonsocket
+166,"Fort Wayne, IN",66.91,304,254,395,149,43,fortwayne
+167,"Rochester, NY",66.9,411,106,454,399,172,rochester
+168,"Clarksville, TN",66.86,324,172,21,344,272,clarksville
+169,"Camden, NJ",66.84,497,101,267,405,67,camden
+170,"Goose Creek, SC",66.8,302,203,15,428,197,goosecreek
+171,"Farmington, NM",66.79,393,102,72,236,368,farmingtonmn
+172,"Baltimore, MD",66.75,181,267,348,372,58,baltimore
+173,"Hillsboro, OR",66.73,63,75,453,316,429,hillsboro
+174,"Salem, OR",66.71,192,187,36,166,322,salem
+175,"Greenville, SC",66.69,47,270,449,322,80,greenville
+176,"Taylorsville, UT",66.68,274,140,128,349,336,taylorsville
+177,"Bossier City, LA",66.67,401,233,87,92,144,bossiercity
+178,"Peoria, AZ",66.58,149,195,264,440,220,peoriaarizona
+179,"Chattanooga, TN",66.57,270,235,238,177,164,chattanooga
+180,"Louisville, KY",66.56,216,281,236,123,102,louisville
+181,"Grand Island, NE",66.56,269,179,240,304,260,grandisland
+182,"Syracuse, NY",66.55,418,140,426,345,189,syracuse
+183,"Lexington, KY",66.55,71,273,297,121,165,lexington
+184,"Beaverton, OR",66.51,39,107,401,110,429,beaverton
+185,"Norman, OK",66.49,104,290,147,159,178,norman
+186,"Hoover, AL",66.45,61,279,409,471,40,hoover
+187,"Lafayette, LA",66.45,170,322,231,229,53,lafayettela
+188,"Ogden, UT",66.44,275,190,104,39,310,ogden
+189,"Broken Arrow, OK",66.44,207,260,175,456,82,brokenarrow
+190,"Cleveland, OH",66.42,494,186,259,415,22,cleveland
+191,"Bartlett, TN",66.41,193,325,157,496,6,bartlett
+192,"Glasgow, DE",66.4,341,145,378,443,230,glasgow
+193,"Biloxi, MS",66.39,317,227,44,220,254,biloxi
+194,"Athens, GA",66.36,248,170,300,282,289,athens
+195,"West Hartford, CT",66.34,142,180,484,395,174,westhartford
+196,"New Bedford, MA",66.34,350,92,301,14,414,newbedford
+197,"Jackson, WY",66.33,34,221,345,324,287,JacksonHole
+198,"Pike Creek Valley, DE",66.33,114,237,273,363,230,
+199,"Seattle, WA",66.31,115,125,474,301,355,seattle
+200,"Las Cruces, NM",66.28,288,133,178,40,411,lascruces
+201,"Reading, PA",66.28,486,124,369,37,248,reading
+202,"Grand Rapids, MI",66.27,123,203,424,97,281,grandrapids
+203,"Colorado Springs, CO",66.26,103,230,199,297,293,coloradosprings
+204,"Portsmouth, VA",66.24,449,277,14,66,115,
+205,"Augusta, GA",66.21,448,269,101,224,69,augusta
+206,"Mobile, AL",66.2,387,342,163,243,20,mobile
+207,"Lake Charles, LA",66.2,358,313,232,155,36,lakecharles
+208,"Caldwell, ID",66.19,421,156,102,296,300,caldwell_idaho
+208,"Horn Lake, MS",66.19,399,214,145,55,240,
+210,"Wilmington, NC",66.18,169,317,190,240,101,wilmington
+211,"Ewa Gentry, HI",66.17,456,81,75,442,383,
+212,"Chesapeake, VA",66.16,176,215,52,441,284,chesapeake
+213,"Bentonville, AR",66.15,67,178,489,444,193,bentonville
+214,"Sumter, SC",66.13,444,238,88,299,140,sumter
+215,"Port St. Lucie, FL",66.12,284,83,192,424,424,portstlucie
+216,"Pearl City, HI",66.08,295,164,7,406,383,pearlcity
+217,"Ellicott City, MD",66.04,347,68,478,497,267,ellicottcity
+218,"Winooski, VT",66.02,19,304,454,62,154,winooski
+219,"Madison, AL",66.02,88,244,467,490,62,madisonalabama
+220,"New Orleans, LA",66.01,294,283,317,411,66,neworleans
+221,"Middletown, DE",66.0,198,197,420,438,230,middletown
+221,"Green Bay, WI",66.0,320,265,247,75,158,greenbay
+223,"Waipahu, HI",65.95,334,152,152,151,383,waipahu
+224,"Des Moines, IA",65.92,228,185,202,32,374,desmoines
+225,"Newark, DE",65.91,127,194,443,460,230,newarkde
+226,"Union City, NJ",65.9,188,309,136,11,214,unioncity
+227,"Decatur, AL",65.89,306,250,194,270,199,decatur
+228,"Moore, OK",65.88,247,306,39,263,178,mooreok
+229,"Cranston, RI",65.86,128,206,257,245,341,
+230,"Rock Hill, SC",65.86,245,246,221,185,259,rockhill
+231,"Aberdeen, SD",65.86,268,411,125,287,10,aberdeen
+232,"Virginia Beach, VA",65.85,134,181,103,353,399,virginiabeach
+233,"South Valley, NM",65.82,481,276,5,59,123,southvalley
+234,"Vancouver, WA",65.8,206,199,109,36,397,vancouver
+235,"Bristol, CT",65.77,262,296,161,180,174,bristol
+236,"Bellevue, WA",65.73,389,35,497,463,355,bellevuewa
+237,"Gresham, OR",65.7,286,146,131,129,425,gresham
+238,"Olive Branch, MS",65.67,309,247,120,401,240,olivebranch
+239,"Edmond, OK",65.67,62,360,276,464,33,edmond
+240,"Savannah, GA",65.66,321,224,189,112,302,savannah
+241,"Dearborn, MI",65.62,99,308,395,393,134,dearborn
+242,"Portland, OR",65.59,20,189,355,89,418,portland
+243,"Mililani Town, HI",65.54,285,165,26,462,383,mililanitown
+244,"Kaneohe, HI",65.53,376,163,34,419,383,kaneohe
+245,"Charleston, SC",65.52,27,333,290,302,197,charleston
+246,"Pittsburgh, PA",65.5,174,275,483,397,91,pittsburgh
+247,"Cambridge, MA",65.48,290,54,501,422,270,cambridge
+248,"Fayetteville, AR",65.47,152,353,438,211,57,fayetteville
+249,"Norfolk, NE",65.47,381,374,203,387,13,norfolknebraska
+250,"Waldorf, MD",65.47,312,202,41,307,375,waldorf
+251,"Wilmington, DE",65.42,345,210,270,450,230,wilmingtonde
+252,"Kailua, HI",65.41,386,128,174,451,383,kailua
+253,"Cape Coral, FL",65.4,366,177,117,448,318,capecoral
+254,"Summerville, SC",65.4,237,302,62,375,224,summervillesc
+255,"Macon, GA",65.37,416,332,195,261,61,macon
+256,"Nampa, ID",65.36,371,248,24,290,300,nampa
+257,"Gilbert, AZ",65.35,199,234,383,474,206,gilbert
+258,"Carson City, NV",65.3,292,174,11,58,439,carsoncity
+259,"Arlington, VA",65.28,307,77,486,376,421,arlingtonva
+260,"Dayton, OH",65.27,489,280,266,312,31,dayton
+261,"Shreveport, LA",65.27,451,352,235,212,29,shreveport
+262,"Naperville, IL",65.26,375,160,488,493,116,naperville
+263,"Olathe, KS",65.25,86,289,296,472,183,olathe
+264,"Columbus, NE",65.25,337,320,331,423,60,
+265,"El Paso, TX",65.25,255,292,50,154,297,elpaso
+266,"Sioux Falls, SD",65.24,165,380,390,325,39,siouxfalls
+267,"Overland Park, KS",65.23,52,287,463,433,183,overlandpark
+268,"Westland, MI",65.22,404,285,366,169,134,westland
+269,"Surprise, AZ",65.19,253,241,207,483,206,surprise
+270,"Bowling Green, KY",65.18,326,222,275,46,354,bowlinggreen
+271,"Waukesha, WI",65.16,102,390,413,311,49,waukesha
+272,"Central Falls, RI",65.16,465,158,328,140,341,
+273,"Peoria, IL",65.15,235,232,473,285,262,peoriail
+274,"Essex Junction, VT",65.11,8,366,354,367,154,essexvt
+275,"Lansing, MI",65.08,405,176,96,131,408,lansing
+276,"South Bend, IN",65.07,348,173,440,170,364,southbend
+276,"Southaven, MS",65.07,329,297,141,253,240,southaven
+278,"Scranton, PA",65.06,450,255,320,82,200,scranton
+279,"Pierre, SD",65.05,316,440,76,90,11,pierre
+280,"Glen Burnie, MD",64.97,271,187,47,109,436,glenburnie
+281,"Juneau, AK",64.97,151,211,2,201,447,juneau
+282,"Fall River, MA",64.93,409,168,191,88,414,fallriver
+283,"Franklin, TN",64.92,76,298,457,478,138,franklintn
+284,"Boise, ID",64.9,100,383,170,239,160,boise
+285,"Alexandria, LA",64.89,431,346,294,206,68,
+286,"East Honolulu, HI",64.86,410,111,179,494,383,
+287,"College, AK",64.84,119,159,18,338,469,
+288,"Dothan, AL",64.83,357,315,198,313,171,dothan
+289,"Waterloo, IA",64.82,436,303,368,202,119,waterloo
+290,"Topeka, KS",64.82,344,305,56,172,280,topeka
+291,"Racine, WI",64.81,459,191,358,73,319,racine
+292,"Parma, OH",64.8,380,413,250,106,22,parma
+293,"Knoxville, TN",64.72,367,344,205,86,163,knoxville
+294,"Williston, ND",64.71,266,256,225,321,334,williston
+295,"Gulfport, MS",64.66,479,258,162,35,254,gulfportms
+296,"St. Cloud, MN",64.63,298,282,385,93,282,stcloudmn
+297,"Smyrna, DE",64.59,432,226,319,418,285,smyrna
+298,"Lincoln, NE",64.55,117,362,177,244,249,lincoln
+299,"Alamogordo, NM",64.52,458,157,3,195,446,alamogordo
+300,"Rochester, MN",64.49,24,261,499,392,151,rochestermn
+301,"Plymouth, MN",64.49,242,291,490,476,72,plymouth
+302,"Scottsdale, AZ",64.47,93,314,469,421,206,scottsdale
+303,"Dover, DE",64.47,355,149,167,219,451,doverde
+304,"Conway, AR",64.46,254,351,452,173,122,conway
+305,"Tupelo, MS",64.45,154,327,397,383,245,tupelo
+306,"Jonesboro, AR",64.41,336,329,222,116,258,jonesboro
+306,"Fargo, ND",64.41,157,379,377,332,128,fargo
+308,"East Providence, RI",64.4,175,293,374,191,341,eastprovidence
+309,"Akron, OH",64.37,472,295,260,128,188,akron
+310,"Murfreesboro, TN",64.36,92,266,210,227,417,murfreesborotn
+311,"Lorain, OH",64.34,491,217,349,83,263,lorain
+312,"Madison, WI",64.34,10,272,406,300,405,madisonwi
+313,"South Burlington, VT",64.32,35,372,479,213,154,southburlington
+314,"Valley Falls, RI",64.31,240,300,55,427,341,
+315,"Springfield, IL",64.3,231,391,149,217,180,springfieldil
+316,"Cicero, IL",64.27,280,408,211,170,94,cicero
+317,"Birmingham, AL",64.21,462,381,209,348,40,birmingham
+318,"Tuscaloosa, AL",64.17,319,286,325,403,283,tuscaloosa
+319,"Thornton, CO",64.15,164,130,74,404,487,
+320,"Appleton, WI",64.15,182,397,403,362,96,appleton
+321,"Lenexa, KS",64.11,65,350,458,454,183,lenexaks
+322,"Newport, RI",64.08,53,334,388,337,321,newport
+323,"Twin Falls, ID",64.07,365,339,153,281,264,twinfalls
+324,"Independence, MO",64.05,439,378,150,74,139,independencemo
+324,"Kenosha, WI",64.05,273,216,248,106,438,kenosha
+326,"West Jordan, UT",63.99,323,249,116,486,336,westjordanut
+327,"Schenectady, NY",63.93,388,193,281,139,435,schenectady
+328,"Manhattan, KS",63.91,118,341,332,382,312,manhattanks
+329,"Fairbanks, AK",63.9,333,161,17,402,469,fairbanks
+330,"Rapid City, SD",63.88,276,402,135,241,181,rapidcity
+331,"Hattiesburg, MS",63.83,455,319,201,314,238,hattiesburg
+332,"Hilton Head Island, SC",63.79,44,299,365,499,273,hiltonheadisland
+333,"Bismarck, ND",63.76,186,467,106,355,35,bismarck
+334,"Lakewood, CO",63.74,49,253,181,132,460,lakewood
+335,"Hopkinsville, KY",63.73,485,335,127,13,243,
+336,"Bellevue, NE",63.71,183,242,53,339,454,
+337,"Jackson, TN",63.7,434,310,324,225,277,
+338,"Burlington, VT",63.59,78,389,471,432,154,burlington
+339,"Fremont, NE",63.56,425,398,271,346,93,fremont
+340,"Rock Springs, WY",63.54,392,358,28,331,291,rocksprings
+341,"Westminster, CO",63.52,82,219,187,252,475,westminster
+342,"Coeur d'Alene, ID",63.5,370,442,91,279,55,coeurdalene
+343,"Youngstown, OH",63.5,500,236,316,359,127,youngstown
+344,"Sitka, AK",63.49,229,184,6,414,482,sitka
+345,"Warren, MI",63.49,385,239,371,63,419,warren
+346,"Kearney, NE",63.47,179,434,298,247,106,kearney
+347,"Shawnee, KS",63.46,98,386,314,484,183,shawnee
+348,"St. Charles, MO",63.45,69,415,404,365,190,stcharles
+349,"Fort Collins, CO",63.44,31,338,305,98,422,fortcollins
+350,"Brookings, SD",63.44,101,431,246,434,121,brookings
+351,"Sterling Heights, MI",63.37,126,268,398,420,419,sterlingheights
+352,"Yankton, SD",63.33,291,444,419,335,32,yankton
+353,"Grand Forks, ND",63.28,287,395,329,260,219,grandforks
+354,"West Des Moines, IA",63.27,33,365,456,267,350,westdesmoines
+355,"Cedar Rapids, IA",63.23,236,403,352,196,239,cedarrapids
+356,"Lee's Summit, MO",63.16,124,409,376,475,142,leessummit
+357,"Columbia, MO",63.14,94,330,428,329,403,jackson_tn
+358,"Covington, KY",63.11,332,369,233,15,331,covington
+359,"Owensboro, KY",63.1,419,432,249,25,92,owensboro
+360,"Pueblo, CO",63.1,469,245,107,65,433,pueblo
+361,"Greenville, NC",63.1,322,288,407,347,392,greenvillencarolina
+362,"Spokane, WA",63.06,267,392,220,49,315,spokane
+363,"Woodbury, MN",63.03,223,318,446,485,278,woodburymn
+364,"Meridian, ID",62.99,131,416,226,480,160,meridian_idaho
+365,"Auburn, AL",62.96,158,274,451,416,416,auburn
+366,"Toledo, OH",62.92,482,307,310,134,305,toledo
+367,"Nashua, NH",62.91,72,220,364,84,485,nashua
+368,"Dickinson, ND",62.89,328,430,32,317,222,dickinson
+369,"Davenport, IA",62.87,343,356,241,148,363,
+370,"Cheektowaga, NY",62.86,369,427,304,96,152,cheektowaga
+371,"Minot, ND",62.83,263,401,122,274,317,minot
+372,"Maple Grove, MN",62.79,246,393,476,492,72,maplegrovemn
+373,"Hastings, NE",62.72,382,423,244,360,150,hastings
+374,"Albany, GA",62.71,478,428,95,390,77,albanyga
+375,"Elizabethtown, KY",62.69,384,376,115,72,365,elizabethtown
+376,"Idaho Falls, ID",62.68,265,361,139,328,395,idahofalls
+377,"Watertown, SD",62.67,402,489,123,314,19,watertown
+378,"Riverton, WY",62.57,463,343,13,175,406,
+379,"Manchester, NH",62.52,130,251,307,6,485,manchesternh
+380,"Mount Pleasant, SC",62.51,144,448,353,479,84,mountpleasantsc
+381,"Salina, KS",62.43,408,405,216,262,266,salina
+382,"Florence, KY",62.43,305,385,387,138,348,florence
+383,"Johnson City, TN",62.4,279,404,401,143,299,johnsoncity
+384,"Sandy, UT",62.38,163,355,359,488,336,sandy
+385,"Post Falls, ID",62.37,435,463,133,394,55,postfalls
+386,"Pocatello, ID",62.37,346,422,146,221,276,pocatello
+387,"Livonia, MI",62.33,146,445,415,453,134,livonia
+388,"Wahpeton, ND",62.3,484,475,119,137,28,
+389,"Ann Arbor, MI",62.3,120,175,498,412,448,annarbor
+390,"Monroe, LA",62.28,487,384,421,389,114,monroela
+391,"Toms River, NJ",62.27,227,407,166,288,372,tomsriver
+392,"Meridian, MS",62.25,495,400,227,238,120,meridian
+393,"Mitchell, SD",62.25,438,487,97,409,25,mitchell
+394,"Charleston, WV",62.2,168,417,254,280,353,charlestonwv
+395,"Levittown, PA",62.16,396,414,223,368,265,levittown
+396,"Pine Bluff, AR",62.15,490,449,110,272,50,pinebluff
+397,"Stillwater, OK",62.12,353,324,470,455,330,stillwater
+398,"Mandan, ND",62.02,277,461,71,430,182,mandan
+399,"Lawrence, KS",61.96,77,311,327,276,474,lawrence
+400,"Evansville, IN",61.96,460,420,345,22,244,evansville
+401,"Jackson, MS",61.91,452,482,66,286,65,jacksonms
+402,"Erie, PA",61.9,480,312,417,93,393,erie
+403,"St. Joseph, MO",61.87,437,418,273,27,288,stjoseph
+404,"Ames, IA",61.82,121,340,435,457,431,ames
+405,"Iowa City, IA",61.8,131,252,477,410,462,iowacity
+406,"Portland, ME",61.79,22,367,459,181,441,portlandme
+407,"Springfield, MO",61.79,471,443,344,87,130,springfieldmo
+407,"Corvallis, OR",61.79,107,264,437,294,481,corvallis
+409,"Cheyenne, WY",61.78,261,363,19,342,450,cheyenne
+410,"O'Fallon, MO",61.72,159,446,391,467,190,ofallonmo
+411,"West Fargo, ND",61.68,162,454,439,465,128,westfargo
+412,"St. Peters, MO",61.6,138,470,321,445,190,stpeters
+413,"Centennial, CO",61.6,200,323,409,481,426,centennialcolorado
+414,"Detroit, MI",61.6,496,399,269,431,134,detroit
+415,"Green River, WY",61.59,454,396,57,473,291,
+416,"Oshkosh, WI",61.45,372,453,330,41,261,oshkosh
+417,"Canton, OH",61.45,499,368,291,164,223,canton
+418,"Medford, OR",61.33,296,316,168,102,478,medford
+419,"Casper, WY",61.29,356,439,98,259,351,casper
+420,"Lewiston, ME",61.23,447,377,430,56,401,
+421,"Wasilla, AK",61.21,461,328,12,80,465,wasilla
+422,"Clarksburg, WV",61.15,414,500,99,135,45,clarksburgwv
+423,"Badger, AK",61.12,374,345,1,452,469,
+424,"Gary, IN",61.1,498,412,389,291,111,garyindiana
+425,"Montpelier, VT",61.1,15,473,382,251,360,montpelier
+426,"Greenville, MS",61.09,492,486,64,340,38,
+427,"Carmel, IN",61.08,282,331,492,498,332,carmel
+428,"Fairmont, WV",61.05,426,485,142,47,205,fairmontwv
+429,"Warwick, RI",61.0,184,437,292,293,396,warwick
+430,"Westerly, RI",60.97,204,450,172,400,378,westerly
+431,"Eau Claire, WI",60.93,310,452,347,150,352,eauclaire
+432,"Gillette, WY",60.8,428,425,29,446,382,gillette
+433,"Helena, MT",60.77,90,460,79,222,423,helena
+434,"Evanston, WY",60.66,476,419,37,388,380,evanston
+435,"Fishers, IN",60.66,226,388,480,495,332,fishers
+436,"Arvada, CO",60.65,125,357,265,437,475,arvada
+437,"Great Falls, MT",60.6,390,438,112,289,394,greatfalls
+438,"Hialeah, FL",60.56,397,499,58,1,195,hialeah
+439,"Martinsburg, WV",60.56,422,364,35,2,480,martinsburg
+440,"Bend, OR",60.47,68,406,234,333,472,bend
+441,"Lewiston, ID",60.47,398,484,92,330,274,lewistonid
+442,"Laramie, WY",60.43,219,347,468,292,464,laramie
+443,"Spearfish, SD",60.42,210,476,299,133,369,
+444,"Lafayette, IN",60.4,362,348,418,61,473,lafayette
+445,"Eugene, OR",60.35,148,336,286,45,495,eugene
+446,"Dubuque, IA",60.32,249,472,408,308,320,dubuque
+447,"Flint, MI",60.3,501,349,381,318,307,flint
+448,"Billings, MT",60.27,220,435,196,268,437,billings
+449,"South Portland, ME",60.26,79,429,448,187,441,southportlandme
+450,"Miles City, MT",60.18,339,474,173,114,373,
+451,"Council Bluffs, IA",60.14,403,421,183,81,440,
+452,"Wheeling, WV",60.02,442,494,217,319,226,wheelingwv
+453,"Tanaina, AK",59.99,423,354,22,468,465,
+454,"Jamestown, ND",59.96,457,491,218,436,166,jamestown
+455,"Janesville, WI",59.95,359,464,318,246,377,janesville
+456,"Westbrook, ME",59.84,197,447,370,118,441,
+457,"Knik-Fairview, AK",59.82,412,359,4,491,465,
+458,"Sheridan, WY",59.77,379,459,188,336,400,sheridan
+459,"Bozeman, MT",59.72,54,441,303,265,461,bozeman
+460,"Huntington, WV",59.6,483,466,342,194,298,huntingtonwv
+461,"Bloomington, IN",59.59,283,321,464,461,479,bloomington
+462,"St. George, UT",59.58,281,371,282,482,463,stgeorge
+463,"Concord, NH",59.54,111,426,184,145,489,concord
+464,"North Lakes, AK",59.49,351,382,89,477,465,
+465,"Richmond, KY",59.4,395,462,159,85,434,richmondky
+466,"Kalispell, MT",59.35,424,469,337,26,412,kalispell
+467,"Havre, MT",59.31,377,451,49,141,456,havre
+468,"Auburn, ME",59.3,327,479,394,152,401,
+469,"Portsmouth, NH",59.3,70,424,367,326,483,portsmouthnh
+470,"Weirton, WV",59.29,468,483,108,158,370,weirton
+471,"Middlebury, VT",59.26,21,337,500,489,452,middlebury
+472,"Laredo, TX",59.21,202,496,23,371,432,laredo
+473,"Saco, ME",59.19,105,456,350,295,457,saco
+474,"Beckley, WV",59.19,488,387,334,184,453,beckley
+475,"Duluth, MN",59.18,203,477,429,144,428,duluth
+476,"Layton, UT",59.16,205,370,79,470,494,layton
+477,"Butte-Silver Bow, MT",59.1,430,495,61,298,381,butte
+478,"Augusta, ME",59.05,464,488,48,208,383,
+479,"Missoula, MT",59.01,140,436,230,53,490,missoula
+480,"Rutland, VT",58.89,335,497,280,398,371,rutland
+481,"Springfield, OR",58.89,441,373,118,16,495,springfieldor
+482,"Biddeford, ME",58.86,352,458,204,12,457,biddeford
+483,"Laconia, NH",58.84,272,492,105,75,444,
+484,"Barre, VT",58.8,453,498,229,24,360,barre
+485,"Hockessin, DE",58.8,474,375,494,501,230,
+486,"Bennington, VT",58.67,299,493,447,99,407,bennington
+487,"Georgetown, KY",58.66,297,455,289,351,455,georgetown
+488,"Lebanon, NH",58.39,5,410,495,396,491,lebanon
+489,"Parkersburg, WV",58.3,493,501,185,99,202,parkersburg
+490,"Sanford, ME",58.26,417,478,113,29,457,sanford
+491,"Derry, NH",58.11,208,468,197,223,483,derry
+492,"Anaconda, MT",57.91,467,471,134,334,449,anaconda
+493,"Dover, NH",57.81,97,433,372,237,497,dovernh
+494,"Morgantown, WV",57.57,315,394,481,449,492,morgantown
+495,"Orem, UT",57.55,96,271,351,469,500,orem
+496,"Provo, UT",57.53,173,208,475,466,500,provo
+497,"Bangor, ME",57.33,338,465,465,69,477,bangor
+498,"Keene, NH",56.74,113,481,293,197,499,keene
+499,"North Platte, NE",56.43,473,457,137,273,493,northplatte
+500,"Rochester, NH",56.29,363,480,63,266,497,rochesternh
+501,"Brattleboro, VT",54.72,368,490,496,386,488,brattleboro
