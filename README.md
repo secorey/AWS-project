@@ -21,16 +21,16 @@ The external validity of these methods relies on sampling a large number of post
 ## Running this Program
 ### Gather data
 #### Getting the diversity table
-[get_diversity_table.py](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/get_diversity_table.py)
+[get_diversity_table.py](https://github.com/secorey/AWS-project/blob/main/get_diversity_table.py)
 ```
 python3 get_diversity_table.py
 ```
 NOTE: Must have a Google Chrome browser and ChromeDriver installed. This program was written using Chrome version 112, and thus used ChromeDriver version 112. See info on installation here: https://chromedriver.chromium.org/downloads
 
-Running this program will result in the [data/diversity_table.csv](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/data/diversity_table.csv) dataset, which holds the different diversity scores for 500 of the most populous cities in the United States. An additional column for Reddit handles was added. Note that, while most Reddit handles could be generated automatically from the city names themselves, not every Reddit handle follows this formula (especially when there are repeat city names). So, some hand-coding had to be done to this dataset for it to exist in its current form. This program only scrapes one web page, so it can be done in serial, but gathering this information is essential for the rest of the pipeline.
+Running this program will result in the [data/diversity_table.csv](https://github.com/secorey/AWS-project/blob/main/data/diversity_table.csv) dataset, which holds the different diversity scores for 500 of the most populous cities in the United States. An additional column for Reddit handles was added. Note that, while most Reddit handles could be generated automatically from the city names themselves, not every Reddit handle follows this formula (especially when there are repeat city names). So, some hand-coding had to be done to this dataset for it to exist in its current form. This program only scrapes one web page, so it can be done in serial, but gathering this information is essential for the rest of the pipeline.
 
 #### Programming all AWS architecture
-[program_architecture.py](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/program_architecture.py)
+[program_architecture.py](https://github.com/secorey/AWS-project/blob/main/program_architecture.py)
 
 This program sets up RDS (```create_rds()```), creates two RDS tables ('posts' and 'diversity_scores') and adds data from diversity_table.csv to the 'diversity_scores' table in RDS (```set_rds_tables()```), and sets up the Lambda Function and Step Function (```program_lambda_function()```). Within this script, each function represents a different part of the architecture to set up, so each can be run individually. However, all architecture can be set up from scratch by running the ```program_all()``` function:
 ```
@@ -38,14 +38,14 @@ python3 -c "from program_architecture import program_all; program_all()"
 ```
 
 ##### Lambda function
-[deployment_package/lambda_function.py](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/deployment_package/lambda_function.py)
+[deployment_package/lambda_function.py](https://github.com/secorey/AWS-project/blob/main/deployment_package/lambda_function.py)
 
 NOTE: The entire deployment package is too large to have on GitHub, but it includes the requests package and the mysql-connector-python package.
 
 This function receives a list of Reddit handles from the step function and scrapes the 1,000 most recent posts from each page. All posts from all pages are held in memory before being sent together to the 'posts' table in RDS along with their respective Reddit handles. Another column is included in the 'diversity_scores' table, 'bad_handle', which is changed to 'True' if the Lambda worker attempts to scrape that Reddit page but is unable to (usually because the page does not exist). Having this feature helped to recognize the inaccurate Reddit handles so they could be changed or removed.
 
 #### Deploying the Step Function
-[scrape_reddit.py](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/scrape_reddit.py)
+[scrape_reddit.py](https://github.com/secorey/AWS-project/blob/main/scrape_reddit.py)
 ```
 python3 scrape_reddit.py
 ```
@@ -53,7 +53,7 @@ python3 scrape_reddit.py
 This script invokes a step function that invokes 50 Lambda workers. First, this script gathers the ~500 Reddit handles from the 'diversity_scores' table in RDS. Then, it passes the handles evenly to the Lambda workers.
 
 ### Generate topic models
-[project_topic_models.ipynb](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/project_topic_models.ipynb)
+[project_topic_models.ipynb](https://github.com/secorey/AWS-project/blob/main/project_topic_models.ipynb)
 To run the topic models, I used PySpark on an EMR cluster within AWS. To create the EMR cluster, run the following command in the terminal, replacing the relevant S3 bucket name:
 ```
 aws emr create-cluster \
@@ -74,7 +74,7 @@ ssh -i ~/.aws/labsuser.pem -NL 9443:localhost:9443 hadoop@ec2-54-198-253-95.comp
 Then, direct to https://localhost:9443 on the web browser. Username: jovyan ; Password: jupyter
 
 Upload this file to the server:
-[project_topic_models.ipynb](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/project_topic_models.ipynb)
+[project_topic_models.ipynb](https://github.com/secorey/AWS-project/blob/main/project_topic_models.ipynb)
 
 NOTE: To run the Jupyter noteboook, you must install a package on the primary EC2 instance. To do so, while SSHed into the primary node, run:
 ```
@@ -84,4 +84,4 @@ sudo pip3 install sparknlp boto3 mysql-connector-python
 This notebook generates a Latent Dirilecht Allocation (LDA) topic model for different subgroups of the posts. First, both tables in RDS are loaded into Spark dataframes. Then, two topic models are created for each of the 6 diversity axes, with one topic model corresponding to the most diverse cities and the other topic model corresponding to the least diverse cities. For example, to construct the topic models for religious diversity, posts from the top 100 most religiously diverse cities were compared to the top 100 least religiously diverse cities.
 
 ## Results
-All topic models are displayed in [project_topic_models.ipynb](https://github.com/macs30123-s23/final-project-secorey_project/blob/main/project_topic_models.ipynb). Overall, results are mostly qualitative, but we do see differences in topics of cities that are more diverse compared to topics that are less diverse - the most overall diverse cities had more mentions of food while the least overall diverse had more mentions of politics. The difference in topics is not, as stark, however, for religious diversity. In general, topics for extremely religiously diverse cities were not that different from topics for non-religiously diverse cities. This suggests that religious diversity does not contribute much to the things that people talk about, and thus the opinions, beliefs, and attitudes that people may have.
+All topic models are displayed in [project_topic_models.ipynb](https://github.com/secorey/AWS-project/blob/main/project_topic_models.ipynb). Overall, results are mostly qualitative, but we do see differences in topics of cities that are more diverse compared to topics that are less diverse - the most overall diverse cities had more mentions of food while the least overall diverse had more mentions of politics. The difference in topics is not, as stark, however, for religious diversity. In general, topics for extremely religiously diverse cities were not that different from topics for non-religiously diverse cities. This suggests that religious diversity does not contribute much to the things that people talk about, and thus the opinions, beliefs, and attitudes that people may have.
