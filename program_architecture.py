@@ -23,7 +23,7 @@ def create_rds():
             DBName=RDS_NAME,
             MasterUsername='username',
             MasterUserPassword='password',
-            DBInstanceClass='db.t2.micro', #Is this the best instance class? Will I need multiple connections? ####
+            DBInstanceClass='db.t2.micro',
             Engine='mysql',
             AllocatedStorage=5
         )
